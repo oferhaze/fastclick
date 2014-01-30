@@ -1,1 +1,1 @@
-image::https://api.bintray.com/packages/neworgtwo/link/link/images/download.png[link="https://bintray.net/neworgtwo/link/link/_latestVersion"]
+image::https://api.bintray.net/packages/neworgtwo/link/link/images/download.png[link="https://bintray.net/neworgtwo/link/link/_latestVersion"]
