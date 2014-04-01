@@ -2,4 +2,4 @@ image::https://api.bintray.com/packages/jbaruch/maven/artifactory-client-java/im
 
 
 
-image::https://api.bintray.net/packages/btuser6/maven/aopalliance%3Aaopalliance/images/download.png[link="https://bintray.net/btuser6/maven/aopalliance%3Aaopalliance/_latestVersion"]
+image:https://api.bintray.net/packages/btuser6/maven/org.chenillekit%3Achenillekit-lucene/images/download.png[link="https://bintray.net/btuser6/maven/org.chenillekit%3Achenillekit-lucene/_latestVersion"]
