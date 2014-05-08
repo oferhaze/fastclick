@@ -1,1 +1,1 @@
-image::https://api.bintray.net/packages/btuser5/maven/antlr/images/download.png[link="https://bintray.net/btuser5/maven/antlr/_latestVersion"]
+image::https://api.bintray.net/packages/btuser13/maven4/aopalliance/images/download.png[link="https://bintray.net/btuser13/maven4/aopalliance/_latestVersion"]
