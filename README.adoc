@@ -1,1 +1,7 @@
+
+ASCIIDOC
 image::https://api.bintray.net/packages/btuser13/maven4/aopalliance/images/download.png[link="https://bintray.net/btuser13/maven4/aopalliance/_latestVersion"]
+
+
+MARKDOWN
+[ ![Download](https://api.bintray.com/packages/btuser13/maven4/aopalliance/images/download.png) ](https://bintray.net/btuser13/maven4/aopalliance/_latestVersion)
