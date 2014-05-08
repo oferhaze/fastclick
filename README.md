@@ -1,1 +1,1 @@
-[ ![Download](https://api.bintray.com/packages/jfrog/artifactory/artifactory/images/download.png) ](https://bintray.com/jfrog/artifactory/artifactory/_latestVersion)
+[ ![Download](https://api.bintray.net/packages/btuser5/maven/antlr/images/download.png) ](https://bintray.net/btuser5/maven/antlr/_latestVersion)
