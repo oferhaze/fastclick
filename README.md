@@ -21,3 +21,6 @@ content starts at 4-columns in.
 >
 > They can span multiple paragraphs,
 > if you like.
+
+
+[ ![Download](https://api.bintray.com/packages/oferh/smoke/smoke/images/download.png) ](https://bintray.com/oferh/smoke/smoke/_latestVersion)
