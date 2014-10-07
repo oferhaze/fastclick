@@ -1,1 +1,1 @@
-BLAH BLAH BLAH
+This is README.md file, from oferhaze/fastclick
